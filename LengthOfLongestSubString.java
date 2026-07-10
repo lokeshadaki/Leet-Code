@@ -5,7 +5,7 @@ class LengthOfLongestSubString {
         
         int maxLength = 0;
         int windowStart = 0;
-        
+
         for (int windowEnd = 0; windowEnd < s.length(); windowEnd++) {
             char currentChar = s.charAt(windowEnd);
             
