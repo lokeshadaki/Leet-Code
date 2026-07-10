@@ -11,7 +11,7 @@ class TwoSum{
     }
 
     public static void main(String args[]){
-        Solution s=new Solution();
+        TwoSum s=new TwoSum();
         int num[]={2,7,11,15};
         int tar=5;
         int sums[]=s.twoSum(num,tar);
