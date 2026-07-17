@@ -1,4 +1,4 @@
-class Sum3 {
+class Three3Sum {
     public List<List<Integer>> threeSum(int[] nums) {
         int i ;
         List<List<Integer>> result = new ArrayList<>(); 
